@@ -1,0 +1,22 @@
+{
+  "name": "pixi-rocket",
+  "version": "5.0.0",
+  "description": "Custom-build pixi on webpack",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "bit-twiddle": "^1.0.2",
+    "earcut": "^2.0.7",
+    "eventemitter3": "^2.0.0",
+    "glslify-loader": "^1.0.2",
+    "ismobilejs": "^0.4.1",
+    "mini-runner": "^1.0.1",
+    "raw-loader": "^0.5.1",
+    "remove-array-items": "^1.0.0",
+    "resource-loader": "^2.1.1"
+  },
+  "devDependencies": {
+    "webpack": "^3.11.0"
+  }
+}
